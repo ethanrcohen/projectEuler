@@ -1,3 +1,3 @@
-# projectEuler
+# Project Euler
 
-Solving Project Euler problems declaratively using Ramda JS.  
+Learning Haskell with Project Euler
