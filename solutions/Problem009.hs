@@ -1,3 +1,5 @@
+module Problem009 where
+
 isSquare x =  x == head (dropWhile (<x) squares)
     where squares = scanl1 (+) [1, 3..]
 triples :: [(Int, Int, Int)]
